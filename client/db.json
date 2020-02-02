@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change Network card",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-01-31T11:41:11.566Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive fail",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-01-31T10:01:38.668Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Ram",
+      "secondName": "Kc"
+    },
+    {
+      "id": 2,
+      "firstName": "Shyam",
+      "secondName": "Kc"
+    },
+    {
+      "id": 3,
+      "firstName": "Hari",
+      "secondName": "Kc"
+    }
+  ]
+}
